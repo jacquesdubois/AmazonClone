@@ -38,3 +38,6 @@ firebase.js
 
 #Test Config File
 myTestConfig.js
+
+#Firestore permissions
+permissions.json
