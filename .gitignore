@@ -36,5 +36,5 @@ yarn-error.log*
 #Not sure if this should be ignored or not
 firebase.js
 
-#Config.js
-config.js
+#Test Config File
+myTestConfig.js
