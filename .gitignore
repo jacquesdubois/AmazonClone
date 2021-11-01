@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#Not sure if this should be ignored or not
+firebase.js
+
+#Config.js
+config.js
