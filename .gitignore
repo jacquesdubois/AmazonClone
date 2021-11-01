@@ -40,4 +40,4 @@ firebase.js
 myTestConfig.js
 
 #Firestore permissions
-permissions.json
+newPermissions.json

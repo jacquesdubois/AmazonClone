@@ -3,7 +3,7 @@ import * as admin from 'firebase-admin';
 
 
 // Secure a connection to Firebase from the backend
-const serviceAccount = require('../../../permissions.json');
+const serviceAccount = require('../../../newPermissions.json');
 const app = !admin.apps.length
     ? admin.initializeApp({
         credential: admin.credential.cert(serviceAccount),
